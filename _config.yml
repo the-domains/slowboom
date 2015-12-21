@@ -1,0 +1,28 @@
+name: SlowBoom
+favicon: null
+layout_spectrum: 0.2766492066439241
+typography_spectrum: 0.09178951336070895
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.20261367224156857
+  lightness: 0.24870609235949814
+  saturation: 0.6064658802933991
+  rhythmicContrast: 0.9233668816741556
+purpose: []
